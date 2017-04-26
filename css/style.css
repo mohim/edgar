@@ -1682,8 +1682,4 @@ button {
 .mastFooter .social a:hover {
     color: white;
 }
-.prising_bg{
-    background-image:url("../img/bg_parallax_06.jpg");
-    background-size:cover;
-    background-attachment: fixed;
-}
+ 
